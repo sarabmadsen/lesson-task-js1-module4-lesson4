@@ -2,7 +2,7 @@
 
 ## Lesson Task 4 Answer
 
-When the input values change, validate the values and enabled the button if all values are valid.
+When the input values change, validate the values and enable the button if all values are valid.
 
 Once the form is submitted display a message to the user that form was submitted.
 
