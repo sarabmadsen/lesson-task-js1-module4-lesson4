@@ -1,6 +1,6 @@
 # JavaScript 1 - Module 4
 
-## Lesson Task 4 Question
+## Lesson Task 4 Answer
 
 When the input values change, validate the values and enabled the button if all values are valid.
 
